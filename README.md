@@ -15,4 +15,4 @@ An AI receptionist named **Shridevi** that handles appointment bookings for a pr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ReceptionistAI.git
+   git clone https://github.com/surajpatil1100/ReceptionistAI-Agent/tree/main
